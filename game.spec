@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['game.py'],
-             pathex=['/home/ntj/projects/unbeatable-tictactoe'],
+             pathex=['C:\\Users\\ntj\\Desktop\\unbeatable-tictactoe'],
              binaries=[],
              datas=[],
              hiddenimports=[],
